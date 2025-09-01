@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about technology and always eager t
 - 💼 [Linkedin](https://www.linkedin.com/in/vin%C3%ADcius-visconsini-diniz-8001081bb/)
 ---
 ## 🛠️ Skills:
-
+![Icons](./icons.png)
 ---
 ## 📊 Github Stats:
 ![kokoapo's Stats](https://github-readme-stats.vercel.app/api?username=kokoapo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
