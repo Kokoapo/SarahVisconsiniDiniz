@@ -17,7 +17,9 @@ Welcome to my GitHub profile! I'm passionate about technology and always eager t
 
 ---
 ## 📊 Github Stats:
-
+![kokoapo's Stats](https://github-readme-stats.vercel.app/api?username=kokoapo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![kokoapo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kokoapo&theme=vue-dark&hide_border=true)
+![kokoapo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kokoapo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ---
 ## 📦 Repositories:
 Feel free to explore my projects. I enjoy working with:
